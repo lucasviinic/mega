@@ -26,4 +26,4 @@ puramanete aleatória.
 
 ### Extra
 
-Há um ótimo vídeo do Pedro Loss a respeito do porquê de computadores não poderem gerar números aleatórios, você pode conferir <a href="https://www.youtube.com/watch?v=LqXnpIn2Uxs">nesse link</a>.
+Há um ótimo vídeo do Pedro Loss a respeito do porquê de computadores não poderem gerar números aleatórios, você pode conferir <a href="https://www.youtube.com/watch?v=LqXnpIn2Uxs" target="_blank">nesse link</a>.
